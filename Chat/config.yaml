@@ -1,0 +1,5 @@
+---
+client:
+  client_num: 0
+  prefix_ip_addr: 55.55.55.
+  test_bool: true
